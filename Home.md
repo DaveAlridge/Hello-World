@@ -3,6 +3,14 @@ Hey World! This is my first file in the first main branch of my first repository
 This readme is just to remember the learning plan I've proposed for myself:
 * Learn Git Basics (*ongoing*)
 * Learn how to commit to git via command line/text editor (*planned*)
-* Learn how to setup Flask. Using [Corey's guides](https://www.youtube.com/watch?v=MwZwr5Tvyxo), currently.
+* Learn how to setup Flask. Using [Corey's guides](https://www.youtube.com/watch?v=MwZwr5Tvyxo)(*planned*)
+* Plan out what data I need/look up 'mvp'(min requirements to work) (*ongoing*)
+* create charts on stock information - think up what data to correlate/make charts for
+* after i make min working product look for lil improvements
+* end goal - web dashboard for gme/other info i want
+* do this on whiteboard
+* status checks to make error messages
+* Search up environment variables to keep api key stored locally and called by code
+
 
 End goal: host locally, then maybe live, blog page/ whatever I wanna make :D
