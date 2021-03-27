@@ -16,3 +16,8 @@ This readme is just to remember the learning plan I've proposed for myself:
 
 
 End goal: host locally, then maybe live, blog page/ whatever I wanna make :D
+
+# Day 1 Progress
+Created this Git repository, and planned out what ideas I wanna work on. In python, learnt alot! I've created a list of api requests for previous month dates using a while loop of 30 days. Currently trying to make this a list comprehension and *hopefully* more editable in the future. Works well though, so whatever.
+
+## Night! :)
